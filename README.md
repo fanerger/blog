@@ -1,2 +1,1 @@
-# blog
-my blog powered by vuepress
+'# Hello VuePress!' 
